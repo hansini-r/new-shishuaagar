@@ -1,0 +1,9 @@
+{
+    "appId": "io.ionic.{Lact App}",
+    "appName": "{Lact App}",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }
+ 
